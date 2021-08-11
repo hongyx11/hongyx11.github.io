@@ -7,12 +7,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuxi Hong / Personal Website"
+title                    : "Yuxi Hong"
 title_separator          : "-"
 name                     : &name "Yuxi Hong"
 description              : &description "Ph.D. Student @ KAUST"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://hongyx11.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "https://hongyx11.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "hongyx11/hongyx11.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Yuxi Hong"
-  avatar           : "graph.png"
+  avatar           : "profile.png"
   bio              : # ""
   location         : "Thuwal, KSA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=L9VI3BYAAAAJ&hl=en&authuser=1"
-  email            :
+  email            : "yuxi.hong@kaust.edu.sa"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/hongyx11"
+  github           : "hongyx11"
   google_plus      :
   keybase          :
   instagram        :
