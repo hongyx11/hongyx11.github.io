@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal | Yuxi Hong</title>
+    <link>https://example.com/category/personal/</link>
+      <atom:link href="https://example.com/category/personal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Personal</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hudfbdcc535b03b0cece4a2fe7b5e6b18a_410304_512x512_fill_lanczos_center_3.png</url>
+      <title>Personal</title>
+      <link>https://example.com/category/personal/</link>
+    </image>
+    
+    <item>
+      <title>About me</title>
+      <link>https://example.com/post/bio/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/bio/</guid>
+      <description>&lt;!-- {{ $image := .Resources.GetMatch &#34;images/yuxi.png&#34; }}
+&lt;img src=&#34;{{ $image.RelPermalink }}&#34; width=&#34;{{ $image.Width }}&#34; height=&#34;{{ $image.Height }}&#34;&gt; --&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-yuxi-hong&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Yuxi Hong&#34; srcset=&#34;
+               /post/bio/yuxi_hu2da97144a981c7f0e8f3a3228b2c3a96_5005818_adb10a2a2c5f596efa75354da2a2fbad.webp 400w,
+               /post/bio/yuxi_hu2da97144a981c7f0e8f3a3228b2c3a96_5005818_9a57131e99003bcfb8c37cd76bec1a3c.webp 760w,
+               /post/bio/yuxi_hu2da97144a981c7f0e8f3a3228b2c3a96_5005818_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/bio/yuxi_hu2da97144a981c7f0e8f3a3228b2c3a96_5005818_adb10a2a2c5f596efa75354da2a2fbad.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;560&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Yuxi Hong
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

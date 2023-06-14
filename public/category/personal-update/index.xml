@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal Update | Yuxi Hong</title>
+    <link>https://example.com/category/personal-update/</link>
+      <atom:link href="https://example.com/category/personal-update/index.xml" rel="self" type="application/rss+xml" />
+    <description>Personal Update</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 09 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hudfbdcc535b03b0cece4a2fe7b5e6b18a_410304_512x512_fill_lanczos_center_3.png</url>
+      <title>Personal Update</title>
+      <link>https://example.com/category/personal-update/</link>
+    </image>
+    
+    <item>
+      <title>Ph.D. Defense</title>
+      <link>https://example.com/news/phddefense/</link>
+      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/news/phddefense/</guid>
+      <description>&lt;p&gt;on June 7th, 2023, from 2:30 p.m. to 5:00 p.m., I defensed my PhD thesis.
+After 4 years, I became a PhD finally.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-presentation&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;presentation&#34; srcset=&#34;
+               /media/phddefense/Fig1_hu013a7dac8207e510a4b175d048a2f037_1169157_eb1b2e382a229d72f12a2b971d5e75e6.webp 400w,
+               /media/phddefense/Fig1_hu013a7dac8207e510a4b175d048a2f037_1169157_576467803b1bb249ad8424653362f3f6.webp 760w,
+               /media/phddefense/Fig1_hu013a7dac8207e510a4b175d048a2f037_1169157_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/media/phddefense/Fig1_hu013a7dac8207e510a4b175d048a2f037_1169157_eb1b2e382a229d72f12a2b971d5e75e6.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      presentation
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-presentation&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;presentation&#34; srcset=&#34;
+               /media/phddefense/Fig2_hu09391d89fd0ae39297ab1c24c453a4eb_1133329_051a2aa63de6475e6893f1da03364ea0.webp 400w,
+               /media/phddefense/Fig2_hu09391d89fd0ae39297ab1c24c453a4eb_1133329_a8a321bb208eff4b725f8a8721cd59ab.webp 760w,
+               /media/phddefense/Fig2_hu09391d89fd0ae39297ab1c24c453a4eb_1133329_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/media/phddefense/Fig2_hu09391d89fd0ae39297ab1c24c453a4eb_1133329_051a2aa63de6475e6893f1da03364ea0.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      presentation
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-q--a&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Q &amp;amp; A&#34; srcset=&#34;
+               /media/phddefense/Fig3_hub6ca4560732ff75b80344aca7e6af1dc_1310150_59f29fa7e41742c6c2f6eb7ce1b6b98b.webp 400w,
+               /media/phddefense/Fig3_hub6ca4560732ff75b80344aca7e6af1dc_1310150_24a8192e19698d5cfb305d05cd665b8f.webp 760w,
+               /media/phddefense/Fig3_hub6ca4560732ff75b80344aca7e6af1dc_1310150_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/media/phddefense/Fig3_hub6ca4560732ff75b80344aca7e6af1dc_1310150_59f29fa7e41742c6c2f6eb7ce1b6b98b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Q &amp;amp; A
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-after-party-dinner-with-hatem-ltaief-david-e-keyes-edmond-chow-george-turkiyyah-from-left-to-right&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;After party dinner with Hatem Ltaief, David E. Keyes, Edmond Chow, George Turkiyyah (From left to right)&#34; srcset=&#34;
+               /media/phddefense/Fig4_hu0a97b8a4231c9f724b2610f406c18a70_1244636_29210210f68f91af725fb58b153d2447.webp 400w,
+               /media/phddefense/Fig4_hu0a97b8a4231c9f724b2610f406c18a70_1244636_ca75e3503e521886c19f20ae374c7f7a.webp 760w,
+               /media/phddefense/Fig4_hu0a97b8a4231c9f724b2610f406c18a70_1244636_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/media/phddefense/Fig4_hu0a97b8a4231c9f724b2610f406c18a70_1244636_29210210f68f91af725fb58b153d2447.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      After party dinner with Hatem Ltaief, David E. Keyes, Edmond Chow, George Turkiyyah (From left to right)
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ph.D. Proposal Defense</title>
+      <link>https://example.com/news/predefenseproposal/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/news/predefenseproposal/</guid>
+      <description>&lt;p&gt;I just passed my Ph.D. Proposal Defense today 🎉&lt;/p&gt;
+&lt;p&gt;At 5 p.m. to 7 p.m. Saudi Time, 22nd Aug, 2022, I presented my proposal&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Exploiting Data Sparsity in Matrix Algorithms for Adaptive Optics and Seismic Redatuming&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;I present &lt;a href=&#34;https://example.com/publication/slm/&#34;&gt;SLM algorithm&lt;/a&gt;, &lt;a href=&#34;https://example.com/publication/tlrmvm/&#34;&gt;TLR-MVM algorithm&lt;/a&gt;
+,
+&lt;a href=&#34;https://example.com/publication/batchedtlrmvm/&#34;&gt;Batched TLR-MVM algorithm&lt;/a&gt; and
+Mixed Precision TLR-MVM algorithm (submitted to ACM TOMS) during the presentation.&lt;/p&gt;
+&lt;p&gt;Thanks my committees for helping me get through the Ph.D. proposal! I feel very lucky to have their support.&lt;/p&gt;
+&lt;p&gt;I still have one year left for my Ph.D. life.&lt;/p&gt;
+&lt;p&gt;Below are two figures related.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-prof-david-keyes-and-me&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Prof. David Keyes and me&#34; srcset=&#34;
+               /media/predefense1_huf3c1a829218f70f1edb930ac8d818feb_3233356_2a9e54b4a912e85814bd2df1c0c69a7a.webp 400w,
+               /media/predefense1_huf3c1a829218f70f1edb930ac8d818feb_3233356_a91ebca677d8016a9b879804d07f33d7.webp 760w,
+               /media/predefense1_huf3c1a829218f70f1edb930ac8d818feb_3233356_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/media/predefense1_huf3c1a829218f70f1edb930ac8d818feb_3233356_2a9e54b4a912e85814bd2df1c0c69a7a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;491&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Prof. David Keyes and me
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-my-proposal-defense-first-slides&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;My Proposal Defense First slides&#34; srcset=&#34;
+               /media/predefense2_hud538acb27200e44548767adaa01aee68_281645_87d954c541766737fbaa140c0243f292.webp 400w,
+               /media/predefense2_hud538acb27200e44548767adaa01aee68_281645_d47c05f8d72e29703a07b297e1199ae9.webp 760w,
+               /media/predefense2_hud538acb27200e44548767adaa01aee68_281645_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/media/predefense2_hud538acb27200e44548767adaa01aee68_281645_87d954c541766737fbaa140c0243f292.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;427&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      My Proposal Defense First slides
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Personal Website</title>
+      <link>https://example.com/news/newwebsite/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/news/newwebsite/</guid>
+      <description>&lt;p&gt;Hello guys, welcome to my personal website.
+I will share my latest news and knowledge with you.&lt;/p&gt;
+&lt;p&gt;If you don&amp;rsquo;t know me, you can check &lt;a href=&#34;https://example.com/post/bio/&#34;&gt;my detailed introduction&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Have a look at my &lt;a href=&#34;https://example.com/publication/&#34;&gt;publications&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Drop me an email (&lt;a href=&#34;mailto:yuxi.hong@kaust.edu.sa&#34;&gt;yuxi.hong@kaust.edu.sa&lt;/a&gt;) if you would like to talk to me!&lt;/p&gt;
+&lt;p&gt;I use &lt;a href=&#34;https://wowchemy.com/?utm_campaign=poweredby&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wowchemy&lt;/a&gt; template to create
+the website. It&amp;rsquo;s really COOL! I enjoy it.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

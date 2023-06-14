@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Yuxi Hong</title>
+    <link>https://example.com/publication-type/1/</link>
+      <atom:link href="https://example.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hudfbdcc535b03b0cece4a2fe7b5e6b18a_410304_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://example.com/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Large-scale Marchenko imaging with distance-aware matrix reordering, tile low-rank compression, and mixed-precision computations</title>
+      <link>https://example.com/publication/mptlrmvm-seismic/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/mptlrmvm-seismic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tile-Low Rank Compressed Multi-Dimensional Convolution and Its Application to Seismic Redatuming Problems</title>
+      <link>https://example.com/publication/mptlrmvm-eage/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/mptlrmvm-eage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meeting the real-time challenges of ground-based telescopes using low-rank matrix computations</title>
+      <link>https://example.com/publication/tlrmvm/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/tlrmvm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outsmarting the Atmospheric Turbulence for Ground-Based Telescopes Using the Stochastic Levenberg-Marquardt Method</title>
+      <link>https://example.com/publication/slm/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/slm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End-to-end soccer video scene and event classification with deep transfer learning</title>
+      <link>https://example.com/publication/soccervideoanalysis/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/soccervideoanalysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
