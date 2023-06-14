@@ -55,9 +55,8 @@ jobs:
         run: |
           hugo \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
-      - name: Copy public folder to docs
-        run: cp -r ./public ./docs
+            --baseURL "${{ steps.pages.outputs.base_url }}/" \
+            --destination docs
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
