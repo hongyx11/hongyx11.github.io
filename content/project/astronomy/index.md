@@ -1,6 +1,6 @@
 ---
-title: High Performance Soft/Hard Real-time Controller for Ground-based Telescopes 
-summary: Computational Astronomy Project Website
+title: Computational Challenge of AO system in Ground-based Telescopes 
+summary: AO system
 tags:
   - computational astronomy
 date: '2022-10-11T00:00:00Z'
@@ -19,11 +19,20 @@ url_slides: ''
 url_video: ''
 
 ---
-Our knowledge of the universe will make a giant leap as the largest ground-based
-telescopes, with diameters of 25 to 40m~\cite{main-elt,main-ltao-gmt}, 
-see first light before the end of this decade. They will provide the
-angular resolution and collecting area required to detect the first stars and first
-galaxies as well as faint rocky exoplanets around other stars, possibly harboring life.
+
+{{<toc>}}
+
+## hello
+Our knowledge of the universe will make a giant leap as the largest ground-based telescopes, with diameters of 25 to 40m~\cit {main-elt,main-ltao-gmt}, see first light before the end of this decade. They will provide the angular resolution and collecting area required to detect the first stars and first galaxies as well as faint rocky exoplanets around other stars, possibly harboring life.[^1]
+
+[^1]: Hatem Ltaief, Jesse Cranney, Damien Gratadour, Yuxi Hong, Laurent Gatineau, and David Keyes. 2021. Meeting the real-time challenges of ground-based telescopes using low-rank matrix computations. In Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC '21). Association for Computing Machinery, New York, NY, USA, Article 29, 1–16. https://doi.org/10.1145/3458817.3476225
+
+
+{{< math >}}
+$$
+\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}
+$$
+{{< /math >}}
 However, they must overcome optical distortions caused by air turbulence 
 in order to achieve the needed resolution and contrast.
 To compensate for such distortions, Adaptive Optics (AO) 

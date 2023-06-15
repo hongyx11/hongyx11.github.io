@@ -1,8 +1,8 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: Classic
-  font_size: m
+  font: cmu
+  font_size: M
 
 header:
   navbar:
@@ -25,6 +25,7 @@ footer:
   #     share_alike: true
   #     allow_commercial: false
 
+
 # Localization
 
 locale:
@@ -41,7 +42,7 @@ features:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
