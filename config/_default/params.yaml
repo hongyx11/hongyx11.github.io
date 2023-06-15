@@ -2,7 +2,7 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   font: cmu
-  font_size: M
+  font_size: L
 
 header:
   navbar:
