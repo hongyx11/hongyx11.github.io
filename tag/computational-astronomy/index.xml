@@ -1,8 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>computational astronomy | Yuxi Hong</title><link>https://hongyx11.github.io/tag/computational-astronomy/</link><atom:link href="https://hongyx11.github.io/tag/computational-astronomy/index.xml" rel="self" type="application/rss+xml"/><description>computational astronomy</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://hongyx11.github.io/media/icon_hudfbdcc535b03b0cece4a2fe7b5e6b18a_410304_512x512_fill_lanczos_center_3.png</url><title>computational astronomy</title><link>https://hongyx11.github.io/tag/computational-astronomy/</link></image><item><title>High Performance Soft/Hard Real-time Controller for Ground-based Telescopes</title><link>https://hongyx11.github.io/project/astronomy/</link><pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate><guid>https://hongyx11.github.io/project/astronomy/</guid><description>&lt;p>Our knowledge of the universe will make a giant leap as the largest ground-based
-telescopes, with diameters of 25 to 40m~\cite{main-elt,main-ltao-gmt},
-see first light before the end of this decade. They will provide the
-angular resolution and collecting area required to detect the first stars and first
-galaxies as well as faint rocky exoplanets around other stars, possibly harboring life.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>computational astronomy | Yuxi Hong</title><link>https://hongyx11.github.io/tag/computational-astronomy/</link><atom:link href="https://hongyx11.github.io/tag/computational-astronomy/index.xml" rel="self" type="application/rss+xml"/><description>computational astronomy</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://hongyx11.github.io/media/icon_hudfbdcc535b03b0cece4a2fe7b5e6b18a_410304_512x512_fill_lanczos_center_3.png</url><title>computational astronomy</title><link>https://hongyx11.github.io/tag/computational-astronomy/</link></image><item><title>Computational Challenge of AO system in Ground-based Telescopes</title><link>https://hongyx11.github.io/project/astronomy/</link><pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate><guid>https://hongyx11.github.io/project/astronomy/</guid><description>&lt;details class="toc-inpage d-print-none " open>
+&lt;summary class="font-weight-bold">Table of Contents&lt;/summary>
+&lt;nav id="TableOfContents">
+&lt;ul>
+&lt;li>&lt;a href="#hello">hello&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/nav>
+&lt;/details>
+&lt;h2 id="hello">hello&lt;/h2>
+&lt;p>Our knowledge of the universe will make a giant leap as the largest ground-based telescopes, with diameters of 25 to 40m~\cit {main-elt,main-ltao-gmt}, see first light before the end of this decade. They will provide the angular resolution and collecting area required to detect the first stars and first galaxies as well as faint rocky exoplanets around other stars, possibly harboring life.&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/p>
+&lt;p>
+$$
+\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}
+$$
 However, they must overcome optical distortions caused by air turbulence
 in order to achieve the needed resolution and contrast.
 To compensate for such distortions, Adaptive Optics (AO)
@@ -47,4 +56,12 @@ and an RTC using tomographic reconstruction determines the best commands to appl
 In this case, the control matrix is often called the tomographic reconstructor~\cite{Vidal2010}.
 Figure~\ref{fig:mcao} depicts the principle of MCAO in a very simple configuration with only
 2 WFS and 2 DMs.&lt;/p>
-&lt;p>&lt;a href="https://hongyx11.github.io/post/spackinstall/">spack&lt;/a>&lt;/p></description></item></channel></rss>
+&lt;p>&lt;a href="https://hongyx11.github.io/post/spackinstall/">spack&lt;/a>&lt;/p>
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>Hatem Ltaief, Jesse Cranney, Damien Gratadour, Yuxi Hong, Laurent Gatineau, and David Keyes. 2021. Meeting the real-time challenges of ground-based telescopes using low-rank matrix computations. In Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC &amp;lsquo;21). Association for Computing Machinery, New York, NY, USA, Article 29, 1–16. &lt;a href="https://doi.org/10.1145/3458817.3476225" target="_blank" rel="noopener">https://doi.org/10.1145/3458817.3476225&lt;/a>&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item></channel></rss>
