@@ -21,6 +21,18 @@ a { text-underline-offset: 0.18em; }
   box-shadow: 0 8px 28px rgba(35, 24, 15, 0.16);
 }
 
+.sidebar .author__name {
+  font-size: 1.35rem;
+  line-height: 1.2;
+}
+
+.sidebar .author__bio,
+.sidebar .author__urls li,
+.sidebar .author__urls a {
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+
 .page__title { letter-spacing: -0.035em; }
 
 .eyebrow,
