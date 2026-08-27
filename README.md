@@ -1,6 +1,8 @@
 # Yuxi Hong — academic website
 
-Source for [hongyx11.github.io](https://hongyx11.github.io), built with Jekyll and the Academic Pages template.
+**Live website:** [https://hongyx11.github.io](https://hongyx11.github.io)
+
+This repository contains the website source, built with Jekyll and the Academic Pages template.
 
 ## Add an HPC Starter article
 
